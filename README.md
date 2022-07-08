@@ -21,7 +21,7 @@ Tanımladığımız hayvanların çoğunluğu koşarak/yürüyerek hareket etti�
 
 Dolphin yüzerek  hareket ettiği için override yapıldı ve "yüzer" olarak değiştirildi.
 
-Eagle uçarak  hareket ettiği için override yapıldı ve "yüzer" olarak değiştirildi.
+Eagle uçarak  hareket ettiği için override yapıldı ve "uçar" olarak değiştirildi.
 
 
 
